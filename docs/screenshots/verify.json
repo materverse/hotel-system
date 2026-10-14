@@ -1,0 +1,200 @@
+[
+  {
+    "page": "01-酒店首页",
+    "url": "/",
+    "httpStatus": 200,
+    "textLength": 1287,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\01-酒店首页.png"
+  },
+  {
+    "page": "02-登录页",
+    "url": "/login",
+    "httpStatus": 200,
+    "textLength": 159,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\02-登录页.png"
+  },
+  {
+    "page": "03-客人自助注册",
+    "url": "/register",
+    "httpStatus": 200,
+    "textLength": 237,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\03-客人自助注册.png"
+  },
+  {
+    "page": "04-房型与房价",
+    "url": "/rooms",
+    "httpStatus": 200,
+    "textLength": 695,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\04-房型与房价.png"
+  },
+  {
+    "page": "05-AI前台助手",
+    "url": "/ai",
+    "httpStatus": 200,
+    "textLength": 902,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\05-AI前台助手.png"
+  },
+  {
+    "page": "06-客人中心",
+    "url": "/guest",
+    "httpStatus": 200,
+    "textLength": 698,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\06-客人中心.png"
+  },
+  {
+    "page": "07-我的预订",
+    "url": "/guest/reservations",
+    "httpStatus": 200,
+    "textLength": 733,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\07-我的预订.png"
+  },
+  {
+    "page": "08-我的账单",
+    "url": "/guest/bills",
+    "httpStatus": 200,
+    "textLength": 504,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\08-我的账单.png"
+  },
+  {
+    "page": "09-预存与消费流水",
+    "url": "/guest/transactions",
+    "httpStatus": 200,
+    "textLength": 451,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\09-预存与消费流水.png"
+  },
+  {
+    "page": "10-前台看板",
+    "url": "/admin/board",
+    "httpStatus": 200,
+    "textLength": 436,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\10-前台看板.png"
+  },
+  {
+    "page": "11-预订管理",
+    "url": "/admin/reservations",
+    "httpStatus": 200,
+    "textLength": 1248,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\11-预订管理.png"
+  },
+  {
+    "page": "12-客房管理",
+    "url": "/admin/rooms",
+    "httpStatus": 200,
+    "textLength": 1032,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\12-客房管理.png"
+  },
+  {
+    "page": "13-客人管理",
+    "url": "/admin/guests",
+    "httpStatus": 200,
+    "textLength": 616,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\13-客人管理.png"
+  },
+  {
+    "page": "14-账单结算",
+    "url": "/admin/bills",
+    "httpStatus": 200,
+    "textLength": 278,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\14-账单结算.png"
+  },
+  {
+    "page": "15-消费项目",
+    "url": "/admin/consume-items",
+    "httpStatus": 200,
+    "textLength": 689,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\15-消费项目.png"
+  },
+  {
+    "page": "16-房价策略",
+    "url": "/admin/rate-plans",
+    "httpStatus": 200,
+    "textLength": 591,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\16-房价策略.png"
+  },
+  {
+    "page": "17-数据概览",
+    "url": "/admin/dashboard",
+    "httpStatus": 200,
+    "textLength": 981,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\17-数据概览.png"
+  },
+  {
+    "page": "18-房态统计",
+    "url": "/admin/room-stats",
+    "httpStatus": 200,
+    "textLength": 457,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\18-房态统计.png"
+  },
+  {
+    "page": "19-财务报表",
+    "url": "/admin/finance",
+    "httpStatus": 200,
+    "textLength": 867,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\19-财务报表.png"
+  },
+  {
+    "page": "20-AI知识库",
+    "url": "/admin/knowledge",
+    "httpStatus": 200,
+    "textLength": 690,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\20-AI知识库.png"
+  },
+  {
+    "page": "21-AI评测",
+    "url": "/admin/ai-eval",
+    "httpStatus": 200,
+    "textLength": 3842,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\21-AI评测.png"
+  },
+  {
+    "page": "22-员工与权限",
+    "url": "/admin/users",
+    "httpStatus": 200,
+    "textLength": 862,
+    "blank": false,
+    "errors": [],
+    "shot": "docs\\screenshots\\22-员工与权限.png"
+  }
+]
