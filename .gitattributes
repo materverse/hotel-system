@@ -1,5 +1,6 @@
 # 批处理脚本必须是 CRLF 换行：cmd.exe 解析 LF-only 批处理会在行边界吞字符
 *.bat text eol=crlf
+*.cmd text eol=crlf
 
 # 其余文本统一 LF
 *.java text eol=lf
