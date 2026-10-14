@@ -1,0 +1,22 @@
+# 构建产物
+target/
+dist/
+node_modules/
+
+# 密钥与敏感配置（模型密钥、数据库口令一律通过环境变量注入）
+*.env
+*.key
+*.pem
+secrets/
+certs/
+
+# 日志与临时文件
+*.log
+logs/
+uploads/
+
+# 本地私有凭据（数据库口令 + 模型密钥）
+demo-secrets.local.bat
+
+# 旧版演示脚本（历史上写过明文密钥，保险起见继续排除）
+课堂演示启动.bat
